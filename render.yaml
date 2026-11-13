@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: linksinocare-render-test
+    runtime: python
+    plan: free
+    buildCommand: "true"
+    startCommand: "sh start.sh"
+    healthCheckPath: /
+    envVars:
+      - key: BIND_HOST
+        value: 0.0.0.0
+      - key: LAUNCH_READY
+        value: "no"
+      - key: ADMIN_PASSWORD
+        sync: false
