@@ -21,7 +21,7 @@ ROOT = Path(__file__).resolve().parent
 DATA = Path(os.environ.get('DATA_DIR', ROOT.parent / 'beneficial-to-family-private')).resolve()
 HOST = os.environ.get('BIND_HOST', '127.0.0.1')
 PORT = int(os.environ.get('PORT', '8766'))
-BASE = os.environ.get('PUBLIC_BASE_URL', f'http://127.0.0.1:{PORT}').rstrip('/')
+BASE = os.environ.get('PUBLIC_BASE_URL', os.environ.get('RENDER_EXTERNAL_URL', f'http://127.0.0.1:{PORT}')).rstrip('/')
 LIVE = os.environ.get('LAUNCH_READY') == 'yes'
 SECURE = BASE.startswith('https://')
 STATUSES = ('new', 'reviewing', 'waiting_customer', 'closed')
