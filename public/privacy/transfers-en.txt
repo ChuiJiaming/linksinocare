@@ -1,0 +1,35 @@
+Review draft — not yet effective. Bracketed entity details, retention, recipients and transfer arrangements still require verification and completion. The current enquiry form is for fictional test data only and does not accept medical records. Reading, downloading or browsing this page does not give consent.
+
+# Specific Recipient and International Transfer Notice
+
+Operator: [legal name, address and contact]; case reference: [insert]; list version and date shown: [insert]. This notice identifies actual intended recipients for this case and must be shown in full before disclosure. It is not itself patient consent, standard contractual clauses or a transfer approval.
+
+## Details for each recipient
+
+Recipient reference: [insert]; legal name and address: [insert]; contact and active contact details: [insert]; relationship: [hospital/affiliate/translator/hosting provider, etc.]; role: [independent handler/controller, joint controller or processor, with actual functions].
+
+Purpose and service necessity: [specific details, not just “business needs”]; data categories and scope: [list]; processing: [storage, translation, clinical assessment, booking, etc.]; patient choice and available alternatives: [insert].
+
+Server location: [country/region]; backup location: [insert]; staff remote-access locations: [insert]; expected transfer date and frequency: [insert]; retention and trigger: [insert]; deletion or return arrangements: [insert].
+
+Onward disclosure: [no/yes, identifying entities, purposes and restrictions]; recipient privacy policy: [active link]; channel and procedure for access, correction, deletion, withdrawal and other rights: [insert]; operator assistance: [insert].
+
+Repeat these fields for every actual recipient. Hospitals and cloud providers have different roles and must be identified according to the actual arrangement. “Partners” must not replace specific identities required by law.
+
+## Details for each transfer route
+
+Route reference: [insert]; origin, destination and remote-access locations: [insert]; exporter and importer: [insert]; whether records arise from treatment in China: [insert]; necessity and non-transfer alternatives: [insert].
+
+Mechanism: [insert the implemented mechanism under the applicable law, such as assessed standard clauses and supplementary measures, certification, approval or lawful exemption]; completion status and evidence: [insert]; how the patient obtains a copy or summary of safeguards: [insert, protecting others’ data and security-sensitive details].
+
+Risks and safeguards: destination laws, government access and redress may differ. Specific assessment and remaining risks: [insert]. Implemented encryption, key controls, access limits and contractual remedies: [insert]. A generic claim of “international compliance” is insufficient.
+
+## Patient choice and changes
+
+Items requiring consent are confirmed separately against the specific recipient, purpose and version. If you decline, we explain effects and alternatives; other hospitals or new countries are not automatically authorised. New recipients, purposes or material changes require updated notice and renewed consent where legally required.
+
+Withdrawal or rights requests: [email/portal]. We stop future disclosure reliant on withdrawn consent and notify relevant recipients as required. Hospital records already lawfully created and subject to mandatory retention follow their applicable rules.
+
+## Internal release record
+
+Reviewer and date: [insert]; list matched to actual system access: [insert]; impact assessment reference: [insert]; recipient contract and transfer formalities: [insert]; notice and consent evidence: [insert]; approved scope and validity: [insert]. This section is for internal review; do not expose internal security details to users.

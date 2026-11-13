@@ -1,0 +1,45 @@
+Review draft — not yet effective. Bracketed entity details, retention, recipients and transfer arrangements still require verification and completion. The current enquiry form is for fictional test data only and does not accept medical records. Reading, downloading or browsing this page does not give consent.
+
+# US Consumer Health Data Privacy Notice
+
+Operator: [legal name and address]; effective date and version: [insert]; privacy contact: [email]; requests: [portal]; appeals: [portal].
+
+This separate notice explains health data processing for care coordination in China where US consumer health data laws apply. Washington and Nevada provisions apply within their statutory scope; other state rights are addressed in relevant supplements. Holding medical records does not mean all our processing is covered by HIPAA or exempt from other privacy laws.
+
+## Data and purposes
+
+Care requests and health information, including symptoms, history, diagnoses, medications, allergies, tests and imaging, are used to understand the service requested, translate records, contact your selected hospital and arrange assessment or appointments. Mental, sexual or reproductive health, genetic or disability information is collected only where needed for that care request.
+
+Identity, contact, appointment, payment-status and communication data linked to health needs support case identification, updates, billing and enquiries. Identifiable condition enquiries or specialist-page visits may also be health data. We do not build advertising health profiles from browsing, collect precise location to infer care, or use healthcare-facility geofences for health tracking.
+
+## Sources
+
+Sources are you, verified authorised guardians or representatives, providers sending records at your direction, your website submissions and service communications. We do not purchase health data from brokers. The Cookie Policy identifies actual automated collection and technologies; record uploads and consultation contents are not sent to advertising tools.
+
+## Collection and sharing choices
+
+We process health data as legally permitted and necessary to provide the service you request; collection otherwise requiring consent follows affirmative consent. Sharing that requires consent is requested separately rather than using one consent for every purpose. New categories or incompatible new purposes receive advance notice and renewed consent where required.
+
+We do not sell health data or share it for cross-context behavioural advertising. Refusing non-essential processing or exercising rights will not cause unlawful discrimination. Where necessary processing is declined, we explain the specific limitation on that service.
+
+## Data disclosed and recipients
+
+Hospitals and clinicians receive relevant records, identity and contact details for requested assessments or appointments. Translation and coordination providers receive necessary record extracts and service information. Hosting, storage and security providers process data needed for their contracted functions under restrictions. Payment providers receive billing information, not full medical records. Competent authorities receive necessary data only on a lawful basis.
+
+Affiliates receiving health data, with legal names and purposes: [list each, or state “None”]. Actual independent recipients, data, countries and contacts appear at [recipient-list link]. Not every category participates in each case; the case notice identifies the actual scope. Recipient restrictions and contracts do not replace required user consent.
+
+## Rights and requests
+
+Where applicable, you may confirm collection, sharing or sale, access data, obtain legally required recipient lists and contact details, withdraw collection or sharing consent, request deletion and appeal refusals. Nevada users may also request correction at [portal]. No new account is required; verification is limited to what is necessary.
+
+Washington: requests are generally handled within 45 days of receipt, with one further 45-day extension where lawfully necessary and explained within the initial period. Verification does not restart the clock. Appeals are answered within 45 days. Deletion requests are passed to recipients and backup deletion completed within statutory limits.
+
+Nevada: general requests are handled within 45 days after authentication, with one lawful 45-day extension; deletion has a special 30-day period after authentication. Appeals are answered within 45 days of receipt. Relevant third-party and backup deletion follows legal requirements.
+
+Requests are generally free; any fee or refusal is limited to legally permitted cases and explained. If an appeal is denied, we provide a route to the applicable state Attorney General. Washington: [AG complaint link]; Nevada: [AG complaint link].
+
+## Retention security and changes
+
+Health-data retention and triggers: [separately specify enquiries, medical copies and consent records]. Storage and access countries: [include China]. We restrict access and use [actual safeguards]. We do not extend retention for vague business reasons when deletion is legally required; legal exceptions are explained by data and ground.
+
+Updates are published at [link], with material changes notified by [method]; changes needing fresh consent take effect only after it is obtained. Where a hospital independently handles records governed by other laws, we identify it and its contact rather than treating all data as exempt.

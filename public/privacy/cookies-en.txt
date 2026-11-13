@@ -1,0 +1,27 @@
+Review draft — not yet effective. Bracketed entity details, retention, recipients and transfer arrangements still require verification and completion. The current enquiry form is for fictional test data only and does not accept medical records. Reading, downloading or browsing this page does not give consent.
+
+# Cookie and Similar Technologies Policy
+
+Version: website review draft, 16 October 2026. Operator: Beneficial to Family Limited.
+
+## 1. Current website inventory
+
+The current frontend code does not set visitor cookies or local storage, run advertising pixels or analytics, or embed third-party maps, videos or remote fonts. Servers and hosting infrastructure may still record necessary network and security logs. Production hosting provider, location and log retention remain to be verified.
+
+An essential first-party cookie named bf_admin authenticates administrators. It is set only following successful administrator login and is not used for patient tracking or marketing. It is set on the current website host with Path=/ and a maximum lifetime of eight hours, and is cleared at logout. It uses HttpOnly and SameSite=Strict, with Secure on HTTPS deployments. Server-side session validation also expires after eight hours.
+
+Patient enquiries use a private link and access key; keys are not kept in browser local storage. Anyone holding the link may access the conversation, so keep it private. Enquiry and server-log retention must follow the Privacy Policy and the verified operational notice before launch.
+
+## 2. Choices and controls
+
+No optional analytics or advertising technologies are currently enabled, so there is no request to accept non-essential cookies or a simulated consent switch. Browser controls can clear or block cookies. Blocking bf_admin may prevent administrator login but does not prevent patients from reading public pages.
+
+Before introducing non-essential technologies we will disclose their names, providers, purposes, data, lifetimes, countries and sharing, and provide equally accessible accept, reject and category controls where applicable law requires consent. Optional settings will default to off. Continued browsing is not consent, and withdrawal will be as easy as consent.
+
+## 3. External services and health information
+
+After you follow a WhatsApp, email or other external link, that service applies its own privacy and technology terms. This website does not embed its tracking tools before the click. Do not send medical records, passports or payment details through general enquiry channels. We do not use health information for advertising tracking.
+
+## 4. Updates and contact
+
+This inventory must be checked again when hosting or suppliers change. Our published general contact is yeis@163.com; you may request the privacy contact there without attaching sensitive information. The dedicated privacy officer, production log retention and hosting arrangements still require confirmation before real intake.

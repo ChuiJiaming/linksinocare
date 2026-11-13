@@ -1,0 +1,43 @@
+Review draft — not yet effective. Bracketed entity details, retention, recipients and transfer arrangements still require verification and completion. The current enquiry form is for fictional test data only and does not accept medical records. Reading, downloading or browsing this page does not give consent.
+
+# Guardian Consent and Minor Data Authorisation
+
+Operator: [legal name]. Case reference: [insert]. Version and date: [insert]. This form concerns personal information for care coordination in China. It does not replace clinical consent, travel permission, proof of custody or research consent.
+
+## Patient and guardian
+
+Patient name: [insert]; date of birth: [insert]; usual country or region of residence: [insert]; brief care request: [insert, without unnecessary detail].
+
+Guardian name: [insert]; relationship: [insert]; telephone/email: [insert]; authority and limitations: [insert, including documents, joint-guardian requirements, expiry or court restrictions].
+
+I confirm that these details are accurate and will report changes affecting my authority. I understand that necessary evidence may be requested and that my consent does not replace any authorisation required from another guardian, the patient or an authority.
+
+## Specific processing notice
+
+Data: [list relevant records, imaging, allergies, etc.]. Purpose and necessity: [insert]. Activities: [collection, encrypted storage, translation, booking transmission, etc.]. Storage and access locations: [insert]. Retention period and trigger: [insert].
+
+Effects and risks: records can reveal physical or mental health conditions; unauthorised disclosure may affect privacy or reputation or create discrimination risks. Transfers can involve different protection and redress systems. We apply [implemented measures] to reduce risks. Without [necessary data], [specific service impact] may follow. Optional data may be omitted.
+
+## Separate choices
+
+Do not preselect any item. Each choice applies only to the completed purposes, data and recipients. An attachment not actually shown is not part of the authorisation. Retain this form and the full version of each referenced notice for paper or electronic confirmation.
+
+[ ] A Sensitive information: I have read the Minors Personal Information Protection Rules and the notice above. Within my lawful authority, I expressly consent to the operator processing the specified necessary data for this case. Where mainland Chinese law applies to a child under 14, this includes guardian consent for processing the child’s personal information as required.
+
+[ ] B Independent recipient: I separately consent to disclosure of [data categories] to [recipient name and contact] for [purpose]. Recipient activities and rights channel: [insert]. List multiple recipients individually and allow separate choices consistent with the requested service.
+
+[ ] C Cross-border transfer: I received specific transfer notice [reference] identifying the overseas recipient, countries, purposes, methods, data, rights channel and risks. I separately consent to that transfer to the extent required by applicable law. This does not replace transfer formalities the operator must separately complete.
+
+Without required consent, the operator must not proceed with processing that relies on it and should explain available alternatives. This form does not authorise marketing, case publication or AI training.
+
+## Withdrawal and participation
+
+Use [email/portal] with the case reference to withdraw all or selected items. Withdrawal does not invalidate earlier lawful processing. Effects on future appointments or other services will be explained, as will legally retained records and records independently handled by hospitals.
+
+Where suitable for the patient’s age and understanding, staff explain: “We want to send information about this care request to the hospital we have told you about, to help arrange your visit. You can ask questions and tell us about any worries.” Patient views and response: [insert]. This record does not replace legally required valid consent.
+
+## Signature and verification
+
+Guardian signature/electronic confirmation: [insert]; date, time and time zone: [insert]. Additional guardian signature, if required: [insert]. Patient’s own signature, where legally required: [insert].
+
+Operator verifier and date: [insert]; verification method and result: [insert]; applicable age and authority rules: [insert]; document names, versions and recipient-list reference shown: [insert]; choices recorded and copy delivery method: [insert].

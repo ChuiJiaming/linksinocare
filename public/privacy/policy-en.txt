@@ -1,0 +1,216 @@
+Review draft — not yet effective. Bracketed entity details, retention, recipients and transfer arrangements still require verification and completion. The current enquiry form is for fictional test data only and does not accept medical records. Reading, downloading or browsing this page does not give consent.
+
+# International Medical Services Privacy Policy
+
+Version: [Version number]  
+Effective date: [Date]  
+Last updated: [Date]
+
+## 1. Who We Are and Scope
+
+This website is operated by Beneficial to Family Limited, incorporated in [jurisdiction], with its registered address at [address]. Our website is https://linksinocare.com. In this Policy, “we”, “us” and “our” refer to that entity.
+
+We assist international patients seeking medical care in mainland China through enquiry handling, liaison with hospitals and doctors, appointment coordination, medical-record organisation and translation, and related support requested by patients. Diagnosis, treatment and clinical decisions are the responsibility of appropriately qualified healthcare institutions and professionals.
+
+This Policy explains how we process personal information through our website, enquiry forms, patient upload system, email and other designated service channels. It applies to patients, enquirers and their legally authorised representatives.
+
+Where we determine the purposes and means of processing, we act as the relevant personal information handler, data controller or data user. Healthcare providers generally have independent responsibilities for their clinical activities. Any joint-controller or processing-on-behalf arrangement will be explained in the relevant service notice.
+
+Privacy contact: [Department or officer]  
+Email: [Privacy email]  
+Postal address: [Address]  
+Rights and consent-withdrawal portal: [Link]  
+Local representative or Data Protection Officer, where required: [Details; delete if inapplicable]
+
+## 2. Information Collected at Each Stage
+
+### 2.1 Website browsing
+
+We may process IP addresses, device and browser information, access times, security logs and cookies needed to operate and protect the website. Section 8 explains non-essential cookies.
+
+### 2.2 Initial enquiries
+
+We normally collect only:
+
+- Your name or preferred form of address;
+- Email address, telephone number or preferred contact details;
+- Country or region, time zone and communication language;
+- The service you wish to discuss, preferred contact time and related correspondence.
+
+Required fields are identified on the form. Other fields are optional. Full medical records, passport scans, financial-account details and detailed health information are generally unnecessary at this stage.
+
+**Please do not enter detailed medical information or upload medical records in an ordinary enquiry field. Even brief information about symptoms, a condition or a preferred specialty may reveal health information.** If such information is necessary for an initial enquiry, we provide a specific notice and obtain the required consent before collecting it.
+
+### 2.3 Detailed consultation and care coordination
+
+After you request specific coordination services and complete the relevant notices and authorisations, we process, as necessary:
+
+- Identity details, such as your name, date of birth and identification documents genuinely needed for booking or travel arrangements;
+- Symptoms, diagnoses, medical history, medication and allergy information, laboratory reports, images, pathology materials, treatment records and related medical opinions;
+- Hospital or doctor preferences, appointment details, service arrangements and necessary follow-up records;
+- Travel, accommodation, accessibility or emergency-contact information needed for support services you choose;
+- Service agreements, payment status, invoices and necessary transaction records.
+
+Health information, certain identity and financial information, and other information classified as sensitive by applicable law receive additional protection. We do not request unrelated complete records merely because they might be useful.
+
+### 2.4 Sources
+
+We primarily receive information from you. With valid authorisation, we may also obtain necessary information from your representative, existing healthcare provider, proposed receiving hospital or relevant service provider.
+
+Where information is obtained indirectly, we provide the legally required information about its source, categories, purposes and your rights within the applicable period, unless a lawful exception applies.
+
+## 3. Purposes and Legal Grounds
+
+We process information only for specified, necessary and disclosed purposes.
+
+| Purpose | Main information | Grounds for processing |
+|---|---|---|
+| Responding, contacting you as requested and preparing services | Contact details, service needs and correspondence | Your request, steps necessary to enter into or perform a contract, or consent where required |
+| Organising and translating records; coordinating medical assessment, appointments and care | Necessary identity, health and booking information | Explicit or separate consent for sensitive information, together with other grounds required by applicable law |
+| Arranging optional travel, accommodation or support | Necessary identity, itinerary and assistance information | Providing the requested service and obtaining any necessary consent |
+| Billing, legal compliance and dispute handling | Agreements, transactions and necessary service records | Applicable contractual, legal-obligation or other statutory grounds |
+| Protecting systems, accounts and information | Necessary technical and security logs | Applicable legal obligations or, where permitted, legitimate interests in security |
+| Optional promotional communications | Contact details and subscription preferences | Separate, voluntary marketing consent |
+
+We rely on legitimate interests only where permitted and after the necessary balancing assessment. It is not a universal legal ground across jurisdictions or, by itself, a ground for processing health information.
+
+Where the EU General Data Protection Regulation applies, requested services generally rely on Article 6(1)(b); consent-based processing on Article 6(1)(a); applicable legal obligations on Article 6(1)(c); and necessary security activities may rely on Article 6(1)(f). Health information generally also requires explicit consent under Article 9(2)(a). Other special-category grounds are used only when their legal conditions are actually met.
+
+Providing coordination services does not automatically entitle us to rely on exceptions available to healthcare professionals subject to professional secrecy.
+
+## 4. Health Information and Your Choices
+
+We process health information to organise and communicate information relevant to the care coordination you request, help the receiving hospital understand your circumstances and arrange services. Unauthorised disclosure may cause privacy harm, discrimination, reputational harm or fraud.
+
+Before collection, we explain the specific categories, purposes, processing methods, retention arrangements and intended recipients, and obtain explicit, separate or written consent where required.
+
+You may decline to provide unnecessary information. If you refuse information objectively necessary for a particular service, or withdraw the relevant consent, we may be unable to continue that service. This does not prevent access to public information or services that do not require it.
+
+Sending us medical records does not authorise marketing, publication, research, artificial-intelligence model training or unrelated uses. If we receive records without the necessary prior authorisation, we restrict access and contact you to complete the required notice and authorisation, or delete them as legally appropriate.
+
+## 5. Recipients
+
+We disclose only necessary information to:
+
+1. **Healthcare institutions and professionals you confirm**, for medical assessment, booking and care coordination. Actual recipients, contact details, information categories and purposes are identified in the recipient list or specific notice before transmission.
+2. **Contracted service providers**, including necessary hosting, security, storage, translation and service-management providers. They must follow agreed instructions and confidentiality, security, deletion and subcontracting requirements.
+3. **Support providers you choose**, such as transport, accommodation or visa-support providers. They generally receive only the details needed for their arrangements, rather than complete medical records.
+4. **Representatives or contacts you designate**, within verified authority. Emergency-contact status alone does not authorise access to full medical records.
+5. **Legally authorised authorities or professional advisers**, where lawful and necessary for legal obligations, requests or disputes.
+
+We obtain separate consent before disclosure to independent recipients where applicable law requires it.
+
+For a restructuring, merger or business transfer, we provide legally required notice, require continued protection and obtain renewed consent where required.
+
+We do not sell or rent personal information, exchange it for commercial consideration, share it for cross-context behavioural advertising, or use health information for targeted advertising.
+
+## 6. Storage and International Processing
+
+Primary storage locations: [Countries or regions].  
+Backup locations: [Countries or regions].  
+Locations of service teams and suppliers that may access information: [Locations and entities].
+
+Coordinating care in mainland China may require sending information to the mainland Chinese healthcare institutions you confirm. Transfers or remote access between mainland China, Hong Kong and other jurisdictions may constitute international or cross-border processing.
+
+Before relevant processing, our transfer notice identifies:
+
+- The recipient, contact details and destination;
+- The purposes, information categories, processing methods and retention arrangements;
+- The applicable transfer mechanism and safeguards;
+- How to exercise rights against the recipient;
+- Specific risks and choices where legally required.
+
+Depending on applicable law, we implement standard contractual clauses or other valid transfer arrangements, necessary assessments, approvals, certifications or local-storage measures. You may contact us for information about safeguards and, where applicable, copies of relevant documents, subject to necessary lawful redactions.
+
+**General consent does not replace mandatory transfer requirements.** We process restricted medical information or information subject to local-storage or approval requirements only after confirming that the applicable conditions are met.
+
+For transfers governed by GDPR Chapter V, we use a valid transfer mechanism and, where necessary, assess destination-country laws and implement supplementary safeguards. We do not use general consent or derogations as the default basis for routine, ongoing transfers.
+
+## 7. Retention
+
+We set retention periods by category and regularly review whether continued retention is necessary.
+
+| Category | Period or determination rule |
+|---|---|
+| Initial enquiries that do not become a service | [Period] after the last meaningful communication, or earlier when the purpose is fulfilled |
+| Medical-record copies, translations and coordination files | [Period established through a necessity assessment] after service completion; earlier deletion where the purpose is fulfilled and no other lawful retention ground exists |
+| Agreements, payment and invoice records | [Applicable jurisdiction and statutory period] |
+| Consent evidence, rights requests and necessary compliance records | Periods necessary to demonstrate compliance and meet applicable legal requirements: [Specify] |
+| Security logs and backups | [Period] and deletion through [Backup cycle], respectively |
+
+Where legal retention or a valid dispute-related preservation requirement applies, we keep only necessary information, restrict its use and delete or lawfully anonymise it when the ground ends.
+
+Backups that cannot be removed immediately are isolated, restricted and cleared under the applicable cycle, subject to legal requirements.
+
+Healthcare providers’ original medical records are subject to their own policies and statutory requirements. We do not automatically apply hospital record-retention periods to all copies we hold.
+
+## 8. Cookies, Third-Party Channels and Marketing
+
+Strictly necessary cookies support website operation, security and essential preferences. Analytics or other non-essential cookies requiring consent remain disabled until you choose them. Accepting, rejecting and withdrawing consent are equally accessible.
+
+Details of cookies, providers, purposes and duration appear at [Cookie-list link].
+
+We do not deploy advertising trackers on medical-record upload, patient-information or sensitive-enquiry pages, or send medical content or identifiable health information to advertising platforms.
+
+Promotional subscriptions are optional. You may unsubscribe through the message or our contact channels. Unsubscribing does not stop necessary booking, payment or security messages.
+
+If you contact us through a third-party messaging or social platform, that platform may process information under its own terms. We provide [secure upload link] for medical records and do not require health information to be sent through public comments, open groups or publicly accessible links.
+
+## 9. Security
+
+We use measures appropriate to health-information risks, including necessary encryption in transit and storage, role-based access, authentication, access logging, staff confidentiality requirements, supplier review and incident-response procedures.
+
+We do not enter identifiable patient information into public general-purpose AI tools or use it to train general-purpose models. Any proposed additional AI processing involving patient information will undergo prior assessment, specific notice and consent where required.
+
+If a personal-information security incident occurs, we take prompt action and notify regulators and affected individuals according to applicable legal thresholds, content requirements and deadlines.
+
+## 10. Your Rights
+
+Subject to applicable law and its conditions, you may request:
+
+- Information about processing, access and copies;
+- Correction, completion or deletion;
+- Restriction of, or objection to, particular processing;
+- Withdrawal of consent;
+- Portability or transfer where applicable;
+- Marketing opt-out and applicable opt-outs from sale, sharing or targeted advertising;
+- Applicable limits on sensitive-information use;
+- Explanations, appeals or regulatory complaints.
+
+Use the contact details or rights portal in Section 1. Identity checks will be proportionate to the request; we do not seek unrelated or excessive evidence. Representatives must provide appropriate authority.
+
+We respond within applicable legal deadlines. GDPR requests are generally addressed within one month; any lawful extension and its reasons will be communicated within the original period. Other jurisdictions have their own deadlines.
+
+Requests are generally free. If a lawful fee or refusal applies, we explain the grounds and available remedies. We do not treat you unfairly for exercising your rights.
+
+Withdrawal does not affect the lawfulness of processing before withdrawal. We stop future processing based on that consent, except for limited retention or processing supported by an independent lawful ground.
+
+## 11. Children and Representatives
+
+We do not independently market to children. For a minor patient, we apply relevant age and capacity rules, verify the authority of a parent, guardian or other authorised person, and obtain required authorisation. We also obtain the child’s participation or consent where required.
+
+For patients under fourteen where mainland Chinese law applies, our dedicated children’s personal-information rules are available at [Link], and parental or guardian consent is obtained before collection.
+
+A family relationship does not automatically authorise submission on behalf of an adult. Submit information only within your lawful authority. We may verify the authorisation directly with the patient.
+
+## 12. Automated Decisions
+
+We do not make decisions producing legal or similarly significant effects solely through automated processing. Automated systems do not independently determine diagnosis, treatment or patient acceptance.
+
+Before changing these arrangements, we explain the relevant processing logic, likely effects and applicable rights, including human review.
+
+## 13. Regional Provisions and Complaints
+
+This Policy does not restrict rights under mandatory applicable law. Regional notices apply alongside it, with mandatory legal requirements prevailing in a conflict.
+
+- **Mainland China:** Where applicable, we comply with personal-information, sensitive-information and cross-border requirements. Complaints may be made to the competent cyberspace administration or other personal-information protection authority.
+- **Hong Kong:** Applicable access and correction requests may be submitted, and complaints may be made to the Office of the Privacy Commissioner for Personal Data. Collection forms identify required and optional fields, consequences of non-provision, purposes, recipient classes and access/correction channels.
+- **EU/EEA:** Where applicable, you may complain to a competent supervisory authority in your habitual residence, workplace or the place of the alleged infringement, without first complaining to us. Representative and Data Protection Officer details appear in Section 1.
+- **United States:** Applicable state privacy and appeal rights are available. Where Washington or other consumer-health-data requirements apply, see [Consumer Health Data Privacy Notice link]. Receiving health information does not automatically make all our services subject to HIPAA. Where a particular activity creates a HIPAA-regulated role, appropriate arrangements are implemented separately.
+- **Other service locations:** Country-specific rights, authorities, language requirements, local representatives and processing restrictions for Southeast Asia, Central Asia, West Asia and other locations appear at [Actual service-country notices link]. Applicable special conditions are addressed before the relevant processing begins.
+
+## 14. Changes
+
+We may update this Policy for business or legal changes and identify the revision date. We provide appropriate advance or timely notice of material changes as required.
+
+New purposes or other changes requiring fresh consent are implemented only after obtaining that consent. Continued browsing or silence does not constitute consent to new sensitive-information processing, marketing or international processing.

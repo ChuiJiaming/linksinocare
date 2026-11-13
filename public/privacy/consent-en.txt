@@ -1,0 +1,75 @@
+Review draft — not yet effective. Bracketed entity details, retention, recipients and transfer arrangements still require verification and completion. The current enquiry form is for fictional test data only and does not accept medical records. Reading, downloading or browsing this page does not give consent.
+
+# Staged Notices and Separate Consent Wording
+
+## Initial Enquiry Notice
+
+Beneficial to Family Limited will use your preferred name, contact details, country or region, language and service needs to respond to this enquiry. Required fields are [list]; without them, we may be unable to contact you or respond to the relevant request. Information is retained for [period] and may be processed with assistance from [necessary service-provider categories and list link]. See [Privacy Policy link] for details and rights-request channels.
+
+Please do not enter detailed medical information or upload medical records here. We provide a separate notice and secure upload channel when health information is needed.
+
+## Health and Sensitive Information Consent
+
+Details of this processing:
+
+Responsible entity: [Name and contact details]
+
+Information categories: [Specify]
+
+Purposes: [Specific coordination services]
+
+Methods: [Collection, organisation, translation, secure storage, etc.]
+
+Retention: [Specify]
+
+Necessity and risks: [Specify]
+
+Withdrawal: [Link or email]
+
+□ I have read the details above and explicitly and separately consent to Beneficial to Family Limited processing the specified health and other sensitive information for the stated purposes. I understand that I may withdraw consent, which may affect services dependent on this information but does not affect the lawfulness of earlier processing.
+
+## Consent to Disclosure to Specified Hospitals or Other Independent Recipients
+
+Recipients for this disclosure: [List each name, contact details and location]
+
+Information categories: [Specify]
+
+Purposes and methods: [Specify]
+
+Recipient retention and rights channels: [Specify]
+
+□ I separately consent to Beneficial to Family Limited providing the specified information to the recipients I have confirmed above for the stated services. This consent does not extend to unlisted independent recipients or other purposes without further notice and any legally required authorisation.
+
+## Cross-Border Processing Consent — Use Where Legally Required
+
+Origin and destination: [Specify]
+
+Overseas recipient and contact details: [Specify]
+
+Information, purposes, methods and duration: [Specify]
+
+Rights procedure: [Specify]
+
+Transfer mechanism and safeguards: [Specify]
+
+Specific risks and available alternatives: [Specify]
+
+□ I have read the specific cross-border notice and separately consent to the described transfer or overseas access. I understand that consent does not replace any legally required approval, assessment, contract or other condition.
+
+This wording is not a general-purpose consent for transfers under GDPR Article 49. Reliance on that Article requires a separate assessment of its conditions and a specific risk notice.
+
+## Optional Marketing Consent
+
+□ I would like Beneficial to Family Limited to use my [name and selected contact details] to send promotional information about [specified service categories] through my selected [email/SMS/other channel]. I may unsubscribe at any time without charge. Leaving this unchecked does not affect enquiry or care-coordination services.
+
+## Representative Declaration
+
+Representative name and contact: [Specify]
+
+Patient name: [Specify]
+
+Basis and scope of authority: [Specify]
+
+Evidence of authority or guardianship: [As necessary]
+
+I confirm that I submit information and make the relevant choices within the valid authority stated above, and have provided the applicable privacy information to the patient, except where the law permits otherwise.

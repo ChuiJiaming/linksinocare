@@ -1,0 +1,33 @@
+Review draft — not yet effective. Bracketed entity details, retention, recipients and transfer arrangements still require verification and completion. The current enquiry form is for fictional test data only and does not accept medical records. Reading, downloading or browsing this page does not give consent.
+
+# Personal Information Rights and Withdrawal Form
+
+Recipient: [legal name]; submission: [email and portal]; postal address: [insert]; version: [insert]. This form helps you make a request but does not restrict other legally valid methods or require a new account. Do not attach full records or identity documents to ordinary email.
+
+## Applicant and case
+
+Name or existing account identifier: [insert]; original email/telephone: [insert]; case reference if any: [insert]; preferred secure reply channel: [insert]; country or region for applicable procedure: [insert].
+
+Capacity: [ ] Self [ ] Guardian [ ] Authorised representative. For representation, give the patient’s name, relationship and authority: [insert]. We request only necessary evidence and allow unrelated information to be redacted; simple unsubscribe requests are not subject to unnecessary identity checks.
+
+## Request type
+
+[ ] Access or copy; [ ] Correction or supplementation; [ ] Deletion; [ ] Restriction or objection; [ ] Portability or transfer where applicable; [ ] Recipient list; [ ] Explanation of rules or decision; [ ] Withdrawal of consent; [ ] Marketing unsubscribe; [ ] Appeal of a prior decision.
+
+Data, date range and desired action: [insert without resubmitting records]. Correction and supporting basis if applicable: [insert]. Prior request reference and appeal reasons if applicable: [insert].
+
+Withdrawal scope: [ ] Health-data processing [ ] Disclosure to specified recipients [ ] Specified transfers [ ] Marketing [ ] Other: [insert]. Recipient, consent date or version if known: [insert]. You need not withdraw the entire care coordination service simply to stop marketing.
+
+## How we respond
+
+We record receipt, proportionately verify identity and authority, and apply the relevant law. Deadlines and permitted extensions differ by jurisdiction; authentication is not universally the start date. Additional information is limited to what is necessary. Refusals include reasons and appeal or complaint routes.
+
+Withdrawal does not affect earlier lawful processing but may prevent future services that depend on the data. Deletion does not automatically cancel appointments or create a refund; service matters are addressed under the contract. We cannot unilaterally delete original records independently and lawfully retained by hospitals, but provide their contacts and relay requests as legally required.
+
+If data must legally be retained, we specify the data, ground, period and restrictions. Requests are normally free; any lawful fee is explained in advance. We do not disclose another person’s records without valid authority.
+
+## Submission and handling record
+
+Applicant signature or electronic confirmation where appropriate: [insert]; submission date: [insert]. Declaration: the information is accurate and I am entitled to make this request. This declaration is not new consent for other processing.
+
+Operator record: receipt date, applicable law, verification method, deadline, handler, outcome, recipient notifications, retention exceptions and appeal route: [complete separately]. Request records are retained for [period and trigger] only for handling, accountability and legal requirements.

@@ -1,0 +1,45 @@
+Review draft — not yet effective. Bracketed entity details, retention, recipients and transfer arrangements still require verification and completion. The current enquiry form is for fictional test data only and does not accept medical records. Reading, downloading or browsing this page does not give consent.
+
+# Minors Personal Information Protection Rules
+
+Version and effective date: [insert]. Operator: [legal name and registered address]. Child privacy contact: [name or role, email and address].
+
+These rules explain how we handle minors’ information when coordinating care in China for international patients. Read them with our Privacy Policy and the recipient and transfer notice for your case. These rules do not authorise treatment, surgery or clinical research.
+
+## Scope and age
+
+These rules generally cover patients under 18. Definitions of a child, capacity to consent and parental authority vary by jurisdiction and will be assessed under applicable law. Our usual contact and submission route is through a guardian. A minor seeking help independently should first use our general contact channel without uploading medical records.
+
+Where mainland Chinese law applies, all personal information of children under 14 is treated as sensitive and parental or other guardian consent is obtained as required. Health information of older minors remains sensitive. EU online-service consent ages are not medical consent ages; we do not substitute one global threshold for local requirements.
+
+## Information and necessity
+
+Initial enquiries normally need only an age range, country or region, language, a brief care request, and the guardian’s name, relationship and contact details. Do not put detailed records or identity documents in public comments, general enquiry boxes or social media comments.
+
+For active coordination, we collect the patient’s name, date of birth, relevant history, test and imaging reports, medication and allergy information, and necessary proof of guardianship. Passport and itinerary details are requested only where needed for the booking, visa assistance or travel service requested. Each upload request identifies required and optional items and the consequences of not providing them.
+
+We use this information to verify authority, assess coordination needs, translate records, request assessments and appointments from disclosed hospitals, arrange services and answer related enquiries. Refusing necessary information may prevent that service, but does not prevent general enquiries that do not need it. We do not sell minors’ information or use it for behavioural advertising, public case promotion, general AI model training or unrelated profiling.
+
+## Guardian verification and the minor’s views
+
+Before relying on guardian consent, we verify identity and authority proportionately, for example by checking relationship evidence and confirming through an established channel. A checkbox alone may be insufficient. Unrelated details should be redacted. Verification record retention: [insert]; deletion of evidence copies: [insert].
+
+We explain processing in an age-appropriate way and seek the minor’s views where appropriate. We may pause disclosure to verify disputed guardianship, unclear authority or a request that may harm the child. We respect any independent consent and confidentiality rights given to minors by applicable law; a claim of parenthood does not automatically provide access to all records.
+
+## Recipients and international transfers
+
+We disclose necessary information only to people, contracted providers and disclosed hospitals needed for the case. The case-specific notice identifies each recipient, contact, role, purpose, data, storage and access country, retention and rights channel. Required sensitive-data, independent-recipient and cross-border consents are obtained separately and are not bundled with marketing.
+
+Hospitals apply their own notices and legal duties to clinical records. Transfers into China and later transfers of records from China are assessed separately. Patient or guardian consent does not replace required transfer mechanisms, assessments, approvals or local storage requirements.
+
+## Security and retention
+
+We use encryption for medical-record transfer and storage, role-based access, access approvals and logs, and impose confidentiality and security duties on processors. Subprocessing of Chinese children’s information is restricted as required by applicable rules. Incidents are handled and notified to the entitled guardian, patient and authorities as legally required.
+
+Storage location: [insert]. Enquiry retention: [period and trigger]; coordination copies of medical records: [insert]; consent and verification records: [insert]. We retain data only as necessary, then delete or irreversibly anonymise it. Legally required retention will be explained and use restricted. We cannot unilaterally erase hospitals’ original clinical records.
+
+## Rights and changes
+
+A guardian or legally entitled minor may use [email/request portal] for access, correction, deletion, withdrawal and other applicable rights. Withdrawal does not affect earlier lawful processing. We explain the effect on future services and notify recipients where required. When the patient becomes an adult or gains independent rights, we update contact and access arrangements rather than automatically continuing guardian access.
+
+We give advance notice of material changes to purposes, methods, data, recipients or these rules and obtain renewed valid consent where required. Emergency processing is limited to what applicable law permits and is not a routine collection basis. We clarify any difference between language versions; no language arrangement reduces statutory rights.

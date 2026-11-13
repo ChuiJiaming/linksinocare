@@ -1,0 +1,33 @@
+Review draft — not yet effective. Bracketed entity details, retention, recipients and transfer arrangements still require verification and completion. The current enquiry form is for fictional test data only and does not accept medical records. Reading, downloading or browsing this page does not give consent.
+
+# Medical Record Upload Notice and Submission Declaration
+
+Operator: [legal name]; secure upload address: [insert]; case reference: [insert]; privacy contact: [insert]; version and date: [insert].
+
+This page is for relevant records after you confirm that you wish to proceed with coordination. General enquiries should use [general enquiry link] without medical uploads. This website is not an emergency service; contact local emergency or medical services in an emergency.
+
+## Notice before upload
+
+Required files for this case: [insert]; purpose: [assess coordination needs, translate and seek assessment or appointment from the specified hospital]; necessity and effect of omission: [insert]; optional items: [insert]. Redact unrelated ID numbers, third-party details and irrelevant content while preserving accurate records and dates needed for clinical assessment.
+
+Operator activities: [insert]; actual recipients: [names and specific notice link]; storage and access countries: [insert]; retention and trigger: [insert]; Privacy Policy, minor rules and rights portal: [insert separate active links].
+
+Records are sensitive and unauthorised disclosure may harm privacy or create discrimination risks. We use [implemented safeguards], but no system guarantees absolute security. Use only the verified official upload route above; do not place records on public links or give account passwords to coordination staff.
+
+## Submitter and authority
+
+Submitter: [patient/guardian/other representative]; name and contact: [insert]; relationship and authority: [insert]. Submitting for another person requires lawful authority and necessary verification; possession of a record alone does not authorise disclosure.
+
+[ ] I confirm that the files concern this case, are accurate and complete to my knowledge, and that I am entitled to provide them. I have removed unrelated third-party information where possible. This declaration confirms source and authority only; it does not replace separately required sensitive-data, disclosure or transfer consent.
+
+## Choices and result
+
+Before upload, display the required choices separately and link the completed Staged Notices and Separate Consents or Guardian Consent form. An “agree to all terms” checkbox must not replace distinct choices, and clicking Upload alone must not be treated as every legally required consent.
+
+Allowed formats, sizes and count: [insert]; confirmation: [display filenames, count and submission time without attaching records to notification emails]. For mistaken uploads, promptly use [withdrawal/deletion route]. After verification we restrict further use and act as legally required; copies already lawfully delivered to hospitals may not be immediately recallable.
+
+You may remove incorrect files before submission. Session timeout and cleanup of failed uploads: [insert]. If you cannot use the portal, contact [channel] for an approved alternative; ordinary social messaging is not the default route for medical records.
+
+## Record and contact
+
+Submission time and time zone: [insert]; file list and versions: [insert]; policy and notice versions shown: [insert]; necessary consent record reference: [insert]. You may request a copy of your submission and authorisation record. Contact [channel] about translation or record-content concerns.

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /api/
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /api/
+
+Sitemap: https://linksinocare.com/sitemap.xml
+# Private pages carry noindex and require access control. robots.txt is not security.
